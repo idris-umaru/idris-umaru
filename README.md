@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @idris-umaru
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning Flask in python 
+- 👀 I’m professional Python devloper 
+- 🌱 I’m skilled in Flask, FASTAPI, in python 
 - 💞️ I’m looking to collaborate on python 
 - 📫 How to reach me idrisumaru123@gmail.com
 
