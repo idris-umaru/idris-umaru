@@ -5,7 +5,7 @@
 - 🚀 Skilled in HTML, CSS, JavaScript, react, tailwind css 
 - 💡 Currently building: **Intelligent Campus Health System** – with AI chatbot, Firebase Auth, and dashboards
 - 🤝 I’m open to collaborating on frontend projects or web-based student solutions
-- 📫 Reach me at: umaruidrismohammed@gmail.com
+- 📫 Reach me at: idrisumaru123@@gmail.com
 - 🌐 Portfolio: [Coming soon on GitHub Pages]
 
 <!---
