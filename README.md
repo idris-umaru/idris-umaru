@@ -2,7 +2,7 @@
 
 - 🎓 I'm a Computer Science student at Usmanu Danfodiyo University, Sokoto
 - 👨‍💻 I’m a Frontend Developer passionate about building modern web applications
-- 🚀 Skilled in HTML, CSS, JavaScript, Firebase, and UI/UX design
+- 🚀 Skilled in HTML, CSS, JavaScript, react, tailwind css 
 - 💡 Currently building: **Intelligent Campus Health System** – with AI chatbot, Firebase Auth, and dashboards
 - 🤝 I’m open to collaborating on frontend projects or web-based student solutions
 - 📫 Reach me at: umaruidrismohammed@gmail.com
