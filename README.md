@@ -1,54 +1,63 @@
-# Hi, I'm Idris Umaru 👋
+<div align="center">
 
-Full-Stack Engineer and Tech Founder based in Nigeria.
+# Idris Umaru
 
-Co-founder of **[DoorGrab](https://doorgrabhq.com)** — building Sokoto's first on-demand food delivery platform.
+### Full-Stack Engineer · Tech Founder · Nigeria
 
----
+I build products that solve practical problems. I’m currently co-founding **[DoorGrab](https://doorgrabhq.com)**, Sokoto’s first on-demand food delivery platform.
 
-## 🛠 Tech Stack
+[![DoorGrab](https://img.shields.io/badge/Building-DoorGrab-E8471A?style=for-the-badge)](https://doorgrabhq.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/idris-umaru)
+[![X](https://img.shields.io/badge/Follow-on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Ttech001)
 
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway)
+</div>
 
 ---
 
-## 🚀 What I'm Building
+## About
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [DoorGrab](https://doorgrabhq.com) | Nigeria's on-demand food delivery platform | React Native · Node.js · PostgreSQL |
-| [TaskLinkers](https://github.com/idris-umaru/tasklinkers-saas) | SaaS platform for task management | Next.js · TypeScript |
+- Co-founder of **[DoorGrab](https://doorgrabhq.com)**, bringing convenient food delivery to Sokoto.
+- Full-stack engineer focused on building reliable, useful web and mobile products.
+- Based in Nigeria and open to connecting with people building ambitious products.
 
----
+## What I’m building
 
-## 📈 GitHub Stats
+| Project | What it does | Technologies |
+| --- | --- | --- |
+| [DoorGrab](https://doorgrabhq.com) | On-demand food delivery platform | React Native · Node.js · PostgreSQL |
+| [TaskLinkers](https://github.com/idris-umaru/tasklinkers-saas) | SaaS task management platform | Next.js · TypeScript |
 
-![Idris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idris-umaru&show_icons=true&theme=dark&hide_border=true)
+## Tech I work with
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idris-umaru&layout=compact&theme=dark&hide_border=true)
+**Frontend**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
----
+**Backend & data**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 
-## 📫 Connect with Me
+**Tools & platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/idris-umaru)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/Ttech001)
-[![DoorGrab](https://img.shields.io/badge/DoorGrab-E8471A?style=flat)](https://doorgrabhq.com)
+## GitHub
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=idris-umaru&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idris-umaru&layout=compact&hide_border=true&theme=transparent)
+
+</div>
+
+## Let’s connect
+
+- **LinkedIn:** [linkedin.com/in/idris-umaru](https://linkedin.com/in/idris-umaru)
+- **X:** [@Ttech001](https://twitter.com/Ttech001)
+- **DoorGrab:** [doorgrabhq.com](https://doorgrabhq.com)
