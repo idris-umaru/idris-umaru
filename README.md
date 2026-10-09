@@ -7,7 +7,7 @@
 I build products that solve practical problems. I’m currently co-founding **[DoorGrab](https://doorgrabhq.com)**, Sokoto’s first on-demand food delivery platform.
 
 [![DoorGrab](https://img.shields.io/badge/Building-DoorGrab-E8471A?style=for-the-badge)](https://doorgrabhq.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/idris-umaru)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idris-umaru-890785274/)
 [![X](https://img.shields.io/badge/Follow-on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Ttech001)
 
 </div>
@@ -22,10 +22,13 @@ I build products that solve practical problems. I’m currently co-founding **[D
 
 ## What I’m building
 
-| Project | What it does | Technologies |
+| Project | What it does | Work |
 | --- | --- | --- |
-| [DoorGrab](https://doorgrabhq.com) | On-demand food delivery platform | React Native · Node.js · PostgreSQL |
+| [DoorGrab](https://doorgrabhq.com) | On-demand food delivery platform | Co-founder · React Native · Node.js · PostgreSQL |
 | [TaskLinkers](https://github.com/idris-umaru/tasklinkers-saas) | SaaS task management platform | Next.js · TypeScript |
+| Verse Brand | Brand website | Website development |
+| LTE House Solar | Solar energy website | Website development |
+| Amdirah AI | AI startup | Startup collaboration |
 
 ## Tech I work with
 
@@ -58,6 +61,6 @@ I build products that solve practical problems. I’m currently co-founding **[D
 
 ## Let’s connect
 
-- **LinkedIn:** [linkedin.com/in/idris-umaru](https://linkedin.com/in/idris-umaru)
+- **LinkedIn:** [linkedin.com/in/idris-umaru-890785274](https://www.linkedin.com/in/idris-umaru-890785274/)
 - **X:** [@Ttech001](https://twitter.com/Ttech001)
 - **DoorGrab:** [doorgrabhq.com](https://doorgrabhq.com)
